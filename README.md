@@ -1,7 +1,7 @@
 - 👋 Greetings, I’m @Gyoza-Goomba
 - 👀 I’m interested in modding, software development, programming
 - 🌱 I’m currently learning Java Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything new and exciting
 - 📫 Reach me via email! amatos250@gmail.com
 
 <!---
